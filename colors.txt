@@ -8,6 +8,4 @@ black
 
 The other colors
 
-orange
-
-###brown
+purple
